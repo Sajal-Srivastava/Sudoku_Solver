@@ -28,5 +28,23 @@ This is an AI-powered **Sudoku Solver** that reads a Sudoku puzzle from an image
 #### **🔹 Prerequisites**
 Make sure you have Python installed and the necessary dependencies.
 
-```sh
-pip install -r requirements.txt
+
+📁 Sudoku-Solver/
+│── 📄 sudoku_solver.py       # Main script for solving Sudoku from images
+│── 📄 model.h5               # Trained ML model for digit recognition
+│── 📄 app.py                 # Web app interface (if applicable)
+│── 📁 data/                  # Sample Sudoku images
+│── 📁 models/                # Machine learning models
+│── 📄 requirements.txt       # Dependencies
+│── 📄 README.md              # Project documentation
+
+
+## 🚀 Future Enhancements
+- 📡 **Deploy as a Web App** to make the Sudoku Solver accessible online.
+- 🎯 **Improve OCR Accuracy** using advanced AI models like Tesseract or deep learning-based recognition.
+- 📱 **Create a Mobile App** for solving Sudoku puzzles on smartphones.
+- 🖋️ **Handwritten Sudoku Recognition** to support handwritten Sudoku puzzles.
+- 🔍 **Real-time Camera Capture** to detect and solve Sudoku puzzles live from a camera feed.
+
+🎯 **Built with ❤️ by [Sajal Srivastava](https://github.com/Sajal-Srivastava)**  
+🚀 **Happy Coding!**
